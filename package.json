@@ -1,0 +1,11 @@
+{
+  "name": "auto-place-order-demo",
+  "version": "0.1.0",
+  "author": "PercyPham <hungpm.percy@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "account": {
+    "username": "levathunghiem6@gmail.com",
+    "password": "abc123"
+  },
+  "order": {
+    "item": [
+      {
+        "url": "itemUrl",
+        "quantity": 2
+      }
+    ],
+    "address": ""
+  }
+}
